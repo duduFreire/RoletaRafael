@@ -113,7 +113,7 @@ function draw() {
 			alert("YOU WIN!!");
 		}
 		else {
-			alert("You loose.");
+			alert("You lose.");
 		}
 	}
 }
